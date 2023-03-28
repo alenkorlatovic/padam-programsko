@@ -4,3 +4,9 @@ let polje=[1,2,4];
  }
 
  console.log("twsr");
+
+
+ let pola=[1,2,3,4];
+ for( let p in pola){
+    console.log(p);
+ }
